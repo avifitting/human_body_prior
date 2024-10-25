@@ -1,4 +1,4 @@
-# VPoser: Variational Human Pose Prior for Body Inverse Kinematics
+#  VPoser: Variational Human Pose Prior for Body Inverse Kinematics
 
 ![alt text](support_data/vposer_samples.png "Novel Human Poses Sampled From the VPoser.")
 ## Description

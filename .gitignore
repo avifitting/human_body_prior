@@ -14,5 +14,5 @@ support_data/dowloads/models/smplx/*
 
 *.pyc
 
-support_data/dowloads/vposer_v2_05/*
-support_data/dowloads/vposer_v1_0/*
+# support_data/dowloads/vposer_v2_05/*
+# support_data/dowloads/vposer_v1_0/*
